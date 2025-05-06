@@ -1,0 +1,1 @@
+[True, '¿En que parte del cuerpo deben estar tus brazos al comienzo del set de bloqueos?', 'En las Caderas', '4']

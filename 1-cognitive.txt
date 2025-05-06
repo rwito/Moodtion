@@ -1,0 +1,1 @@
+[True, '¿Qué enfatizamos en la ejecución de todos los bloqueos en el set de bloqueos 1?', 'Técnica y Precision', '1']

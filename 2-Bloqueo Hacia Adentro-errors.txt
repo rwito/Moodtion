@@ -1,0 +1,1 @@
+['Bloqueo Hacia Adentro: Posición inicial - El/la codo está demasiado alejado de el/la oreja.', 1, None]

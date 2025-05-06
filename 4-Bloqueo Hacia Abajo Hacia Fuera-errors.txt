@@ -1,0 +1,2 @@
+['Bloqueo Hacia Abajo Hacia Fuera: Posición inicial - El/la muñeca no está a la posición a la izquierda de el/la codo.', 1, None]
+['Bloqueo Hacia Abajo Hacia Fuera: Transición 1 - El/la codo no está anclado al cuerpo.', 1, None]

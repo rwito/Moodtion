@@ -1,0 +1,2 @@
+['Amartillamiento: Posición inicial - El/la muñeca está demasiado alejado de el/la cadera.', 1, None]
+['Amartillamiento: Posición final - El/la muñeca está demasiado alejado de el/la cuerpo.', 1, None]

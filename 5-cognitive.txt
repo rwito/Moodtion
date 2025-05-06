@@ -1,0 +1,1 @@
+[True, '¿Qué posición tienen las manos al inicio del set?', 'En un puño mirando hacia arriba', '5']

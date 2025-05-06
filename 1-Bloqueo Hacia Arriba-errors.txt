@@ -1,0 +1,2 @@
+['Bloqueo Hacia Arriba: Posición inicial - El/la muñeca está demasiado alejado de el/la cuerpo.', 1, None]
+['Bloqueo Hacia Arriba: Posición inicial - El/la muñeca no está a la posición debajo de de el/la plexo solar.', 1, None]

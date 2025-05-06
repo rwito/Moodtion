@@ -1,0 +1,1 @@
+[True, '¿En que posición se realiza normalmente el set de bloqueos?', 'Posición Jinete', '3']
